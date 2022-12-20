@@ -1,0 +1,87 @@
+2022-12-17 01:02:05,913 - test_SignUpPage.py:[20] - [INFO] - Test Start
+2022-12-17 01:02:06,552 - test_SignUpPage.py:[23] - [INFO] - Test completed
+2022-12-17 01:13:18,623 - test_CarWale.py:[15] - [INFO] - Inside new car page
+2022-12-17 01:44:58,389 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:44:58,400 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:44:58,402 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:44:58,406 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:48:20,590 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:48:20,599 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:48:20,607 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:48:20,616 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:49:24,059 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:49:24,917 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:49:25,331 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:49:26,129 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:08,217 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:09,225 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:09,580 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:10,043 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:51,304 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:52,312 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:52,913 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:54:54,111 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:57:09,085 - test_CarWale.py:[17] - [INFO] - Inside new car page
+2022-12-17 01:57:13,544 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:57:18,205 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:57:18,641 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:57:23,419 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:59:03,273 - test_CarWale.py:[17] - [INFO] - Inside new car page
+2022-12-17 01:59:03,694 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:59:08,542 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:59:08,986 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 01:59:13,650 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:00:04,512 - test_CarWale.py:[17] - [INFO] - Inside new car page
+2022-12-17 02:00:05,009 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:00:09,682 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:00:10,133 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:00:14,912 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:02:38,433 - test_CarWale.py:[17] - [INFO] - Inside new car page
+2022-12-17 02:02:38,953 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:02:43,659 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:02:44,109 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:02:49,027 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 02:08:38,991 - test_CarWale.py:[17] - [INFO] - Inside new car page
+2022-12-17 02:08:39,485 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:08:43,962 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:08:44,403 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:08:49,058 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:12:18,767 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:12:20,110 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:12:21,358 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:12:26,225 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:14:10,908 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:14:22,138 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:14:33,055 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 02:14:44,575 - test_CarWale.py:[25] - [INFO] - Inside Car Brands
+2022-12-17 03:07:48,501 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:07:58,601 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:08:08,853 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:08:19,015 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:14:26,584 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:14:36,698 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:14:46,641 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:14:56,334 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:18:22,396 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:18:32,262 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:19:08,570 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:31:32,105 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:31:41,981 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:31:53,295 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:32:04,511 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:34:04,602 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:34:14,366 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:34:25,343 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:34:36,269 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:35:43,895 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:35:53,651 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:36:04,669 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:36:16,174 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:37:21,427 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:37:31,083 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:37:42,262 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:37:53,636 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:38:41,806 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:38:52,811 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:39:04,036 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-17 03:39:16,028 - test_CarWale.py:[26] - [INFO] - Inside Car Brands

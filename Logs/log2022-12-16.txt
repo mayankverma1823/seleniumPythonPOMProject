@@ -1,0 +1,4 @@
+2022-12-16 23:32:06,150 - test_SignUpPage.py:[21] - [INFO] - Test Start
+2022-12-16 23:32:06,775 - test_SignUpPage.py:[24] - [INFO] - Test completed
+2022-12-16 23:32:18,388 - test_SignUpPage.py:[21] - [INFO] - Test Start
+2022-12-16 23:32:22,969 - test_SignUpPage.py:[24] - [INFO] - Test completed

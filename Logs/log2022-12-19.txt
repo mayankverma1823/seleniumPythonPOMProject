@@ -1,0 +1,25 @@
+2022-12-19 04:42:38,250 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 04:42:53,254 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 04:43:10,510 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 04:43:24,937 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 05:43:44,628 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:43:57,865 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:44:11,170 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:44:24,737 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:59:04,770 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:59:18,315 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:59:31,027 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 05:59:53,165 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:22:16,094 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:22:28,321 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:22:39,965 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:22:54,073 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:29:08,026 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:29:20,501 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:29:32,276 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:29:48,351 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-19 06:30:03,468 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 06:30:18,017 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 06:30:31,888 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 06:30:45,698 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-19 06:31:01,150 - test_SignUpPage.py:[17] - [INFO] - Test Start

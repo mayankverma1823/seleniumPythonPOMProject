@@ -1,0 +1,11 @@
+ The car title is Mahindra Cars
+Mahindra Scorpio-N_______car price is________₹ 13.45 Lakh
+Mahindra XUV700_______car price is________₹ 11.99 Lakh
+Mahindra Scorpio Classic_______car price is________₹ 13.58 Lakh
+Mahindra Thar_______car price is________₹ 8.41 Lakh
+Mahindra XUV300_______car price is________₹ 9.48 Lakh
+Mahindra Bolero Neo_______car price is________₹ 9.53 Lakh
+Mahindra Bolero_______car price is________₹ 10.35 Lakh
+Mahindra XUV300 TurboSport_______car price is________₹ 6.21 Lakh
+Mahindra KUV100 NXT_______car price is________₹ 13.39 Lakh
+Mahindra Marazzo_______car price is________₹ 30.68 Lakh

@@ -1,0 +1,1 @@
+INFO     Testcases.test_CarWale:test_CarWale.py:26 Inside Car Brands

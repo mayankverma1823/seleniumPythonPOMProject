@@ -1,0 +1,11 @@
+The car title is: Hyundai Cars
+Hyundai Creta_______car price is________₹ 10.44 Lakh
+Hyundai Grand i10 Nios_______car price is________₹ 5.42 Lakh
+Hyundai i20_______car price is________₹ 7.07 Lakh
+Hyundai Aura_______car price is________₹ 6.09 Lakh
+Hyundai Verna_______car price is________₹ 9.43 Lakh
+Hyundai Tucson_______car price is________₹ 27.70 Lakh
+Hyundai i20 N Line_______car price is________₹ 10.00 Lakh
+Hyundai Kona Electric_______car price is________₹ 23.84 Lakh
+Hyundai Venue N Line_______car price is________₹ 12.16 Lakh
+Hyundai Alcazar_______car price is________₹ 15.89 Lakh

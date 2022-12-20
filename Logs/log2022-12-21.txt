@@ -1,0 +1,18 @@
+2022-12-21 00:03:09,743 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:03:28,908 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:03:51,853 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:04:09,837 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:04:27,168 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:04:43,818 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:05:03,666 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:05:21,618 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:05:57,985 - test_SignUpPage.py:[17] - [INFO] - Test Start
+2022-12-21 00:11:13,937 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:11:32,716 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:11:54,077 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:12:12,333 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-21 00:12:35,001 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:12:55,836 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:13:35,310 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:14:10,534 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-21 00:14:53,402 - test_SignUpPage.py:[17] - [INFO] - Test Start

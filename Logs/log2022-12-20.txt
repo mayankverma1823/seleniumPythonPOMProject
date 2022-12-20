@@ -1,0 +1,8 @@
+2022-12-20 23:53:07,772 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-20 23:53:34,519 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-20 23:54:44,095 - test_CarTitleAndPrice.py:[16] - [INFO] - Car Title And Price
+2022-12-20 23:55:17,697 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-20 23:55:46,179 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-20 23:56:42,554 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-20 23:57:19,015 - test_CarWale.py:[26] - [INFO] - Inside Car Brands
+2022-12-20 23:57:56,422 - test_SignUpPage.py:[17] - [INFO] - Test Start

@@ -1,0 +1,1 @@
+INFO     Testcases.test_CarTitleAndPrice:test_CarTitleAndPrice.py:16 Car Title And Price
